@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "@nestjs/class-validator": "0.13.4",
-    "@nestjs/common": "^9.2.1",
+    "@nestjs/common": "^11.0.16",
     "@nestjs/config": "^2.2.0",
     "@nestjs/core": "^9.2.1",
     "@nestjs/jwt": "^9.0.0",
