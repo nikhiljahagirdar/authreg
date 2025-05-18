@@ -35,7 +35,7 @@
     "@types/jsonwebtoken": "^8.5.9",
     "@types/passport-jwt": "^3.0.7",
     "@types/passport-local": "^1.0.34",
-    "bcrypt": "^5.1.0",
+    "bcrypt": "^6.0.0",
     "cookie-parser": "^1.4.6",
     "csurf": "^1.11.0",
     "env": "^0.0.2",
